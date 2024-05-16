@@ -1,0 +1,349 @@
+[17-Jan-2023 11:58:04 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 11:58:04 UTC] PHP Stack trace:
+[17-Jan-2023 11:58:04 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 11:58:04 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 11:58:04 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 11:58:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 11:58:04 UTC] PHP Stack trace:
+[17-Jan-2023 11:58:04 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 11:58:04 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 11:58:04 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 11:58:04 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 11:58:04 UTC] PHP Stack trace:
+[17-Jan-2023 11:58:04 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 11:58:04 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 11:58:04 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 11:58:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 11:58:04 UTC] PHP Stack trace:
+[17-Jan-2023 11:58:04 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 11:58:04 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 11:58:04 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 11:58:04 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 11:58:04 UTC] PHP Stack trace:
+[17-Jan-2023 11:58:04 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 11:58:04 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 11:58:04 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 11:58:04 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 11:58:04 UTC] PHP Stack trace:
+[17-Jan-2023 11:58:04 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 11:58:04 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 11:58:04 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:00:44 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 12:00:44 UTC] PHP Stack trace:
+[17-Jan-2023 12:00:44 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:00:44 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:00:44 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:00:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 12:00:44 UTC] PHP Stack trace:
+[17-Jan-2023 12:00:44 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:00:44 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:00:44 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:00:44 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 12:00:44 UTC] PHP Stack trace:
+[17-Jan-2023 12:00:44 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:00:44 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:00:44 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:00:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 12:00:44 UTC] PHP Stack trace:
+[17-Jan-2023 12:00:44 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:00:44 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:00:44 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:00:44 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 12:00:44 UTC] PHP Stack trace:
+[17-Jan-2023 12:00:44 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:00:44 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:00:44 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:00:44 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 12:00:44 UTC] PHP Stack trace:
+[17-Jan-2023 12:00:44 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:00:44 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:00:44 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:02 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 12:01:02 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 12:01:02 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:02 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 12:01:02 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 12:01:02 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:02 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 12:01:02 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:02 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 12:01:02 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:03 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 12:01:03 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:03 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:03 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:03 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 34
+[17-Jan-2023 12:01:03 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:03 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:03 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:03 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:03 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 12:01:03 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:03 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:03 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:03 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 44
+[17-Jan-2023 12:01:03 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:03 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:03 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:03 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:03 UTC] PHP Notice:  Undefined variable: SERVER in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 12:01:03 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:03 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:03 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:03 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:01:03 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\apirest\routes\routes.php on line 55
+[17-Jan-2023 12:01:03 UTC] PHP Stack trace:
+[17-Jan-2023 12:01:03 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:01:03 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:01:03 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:02:28 UTC] PHP Warning:  require_once(connection.php): failed to open stream: No such file or directory in C:\wamp64\www\apirest\models\get.model.php on line 3
+[17-Jan-2023 12:02:28 UTC] PHP Stack trace:
+[17-Jan-2023 12:02:28 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:02:28 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:02:28 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:02:28 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:36
+[17-Jan-2023 12:02:28 UTC] PHP   5. require_once() C:\wamp64\www\apirest\routes\services\get.php:3
+[17-Jan-2023 12:02:28 UTC] PHP   6. require_once() C:\wamp64\www\apirest\controllers\get.controller.php:3
+[17-Jan-2023 12:02:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'connection.php' (include_path='.;C:\php\pear') in C:\wamp64\www\apirest\models\get.model.php on line 3
+[17-Jan-2023 12:02:28 UTC] PHP Stack trace:
+[17-Jan-2023 12:02:28 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:02:28 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:02:28 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:02:28 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:36
+[17-Jan-2023 12:02:28 UTC] PHP   5. require_once() C:\wamp64\www\apirest\routes\services\get.php:3
+[17-Jan-2023 12:02:28 UTC] PHP   6. require_once() C:\wamp64\www\apirest\controllers\get.controller.php:3
+[17-Jan-2023 12:23:25 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in C:\wamp64\www\apirest\models\get.model.php on line 30
+[17-Jan-2023 12:26:04 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in C:\wamp64\www\apirest\models\get.model.php on line 30
+[17-Jan-2023 12:39:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '[' in C:\wamp64\www\apirest\models\get.model.php on line 30
+[17-Jan-2023 12:39:55 UTC] PHP Notice:  Undefined variable: linkToText in C:\wamp64\www\apirest\models\get.model.php on line 37
+[17-Jan-2023 12:39:55 UTC] PHP Stack trace:
+[17-Jan-2023 12:39:55 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[17-Jan-2023 12:39:55 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[17-Jan-2023 12:39:55 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[17-Jan-2023 12:39:55 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:36
+[17-Jan-2023 12:39:55 UTC] PHP   5. GetController::getDataFilter() C:\wamp64\www\apirest\routes\services\get.php:18
+[17-Jan-2023 12:39:55 UTC] PHP   6. GetModel::getDataFilter() C:\wamp64\www\apirest\controllers\get.controller.php:25
+[17-Jan-2023 13:39:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\wamp64\www\apirest\routes\services\get.php on line 39
+[25-Jan-2023 12:22:01 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\wamp64\www\apirest\routes\services\get.php on line 22
+[26-Jan-2023 12:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fechAll() in C:\wamp64\www\apirest\models\connection.php:54
+Stack trace:
+#0 C:\wamp64\www\apirest\models\get.model.php(44): Connection::getColumnsData('clientes')
+#1 C:\wamp64\www\apirest\controllers\get.controller.php(27): GetModel::getDataFilter('clientes', 'id_cliente,nomb...', 'nombre_cliente', 'Alberto', NULL, NULL, NULL, NULL)
+#2 C:\wamp64\www\apirest\routes\services\get.php(24): GetController::getDataFilter('clientes', 'id_cliente,nomb...', 'nombre_cliente', 'Alberto', NULL, NULL, NULL, NULL)
+#3 C:\wamp64\www\apirest\routes\routes.php(36): include('C:\\wamp64\\www\\a...')
+#4 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#5 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#6 {main}
+  thrown in C:\wamp64\www\apirest\models\connection.php on line 54
+[26-Jan-2023 12:08:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fechAll() in C:\wamp64\www\apirest\models\connection.php:54
+Stack trace:
+#0 C:\wamp64\www\apirest\models\get.model.php(44): Connection::getColumnsData('clientes')
+#1 C:\wamp64\www\apirest\controllers\get.controller.php(27): GetModel::getDataFilter('clientes', 'id_cliente,nomb...', 'nombre_cliente', 'Alberto', NULL, NULL, NULL, NULL)
+#2 C:\wamp64\www\apirest\routes\services\get.php(24): GetController::getDataFilter('clientes', 'id_cliente,nomb...', 'nombre_cliente', 'Alberto', NULL, NULL, NULL, NULL)
+#3 C:\wamp64\www\apirest\routes\routes.php(36): include('C:\\wamp64\\www\\a...')
+#4 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#5 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#6 {main}
+  thrown in C:\wamp64\www\apirest\models\connection.php on line 54
+[26-Jan-2023 12:14:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\wamp64\www\apirest\controllers\get.controller.php on line 106
+[26-Jan-2023 12:14:36 UTC] PHP Stack trace:
+[26-Jan-2023 12:14:36 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[26-Jan-2023 12:14:36 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[26-Jan-2023 12:14:36 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[26-Jan-2023 12:14:36 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:36
+[26-Jan-2023 12:14:36 UTC] PHP   5. GetController::getDataFilter() C:\wamp64\www\apirest\routes\services\get.php:24
+[26-Jan-2023 12:14:36 UTC] PHP   6. GetController->fncResponse() C:\wamp64\www\apirest\controllers\get.controller.php:30
+[26-Jan-2023 12:44:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\wamp64\www\apirest\models\get.model.php on line 53
+[26-Jan-2023 12:59:22 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\wamp64\www\apirest\models\connection.php on line 66
+[26-Jan-2023 13:56:25 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in C:\wamp64\www\apirest\models\get.model.php on line 208
+[26-Jan-2023 14:43:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\wamp64\www\apirest\routes\services\post.php on line 16
+[26-Jan-2023 14:44:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\wamp64\www\apirest\routes\services\post.php on line 16
+[31-Jan-2023 10:37:19 UTC] PHP Notice:  Undefined property: PDOStatement::$debugDumpParams in C:\wamp64\www\apirest\models\post.model.php on line 35
+[31-Jan-2023 10:37:19 UTC] PHP Stack trace:
+[31-Jan-2023 10:37:19 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 10:37:19 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 10:37:19 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 10:37:19 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 10:37:19 UTC] PHP   5. PostController::postData() C:\wamp64\www\apirest\routes\services\post.php:37
+[31-Jan-2023 10:37:19 UTC] PHP   6. PostModel::postData() C:\wamp64\www\apirest\controllers\post.controller.php:13
+[31-Jan-2023 10:56:15 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\wamp64\www\apirest\models\post.model.php on line 36
+[31-Jan-2023 16:51:38 UTC] PHP Fatal error:  Uncaught Error: Class 'DeleteController' not found in C:\wamp64\www\apirest\routes\services\delete.php:29
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\routes.php(66): include()
+#1 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#3 {main}
+  thrown in C:\wamp64\www\apirest\routes\services\delete.php on line 29
+[31-Jan-2023 16:52:33 UTC] PHP Notice:  Undefined variable: data in C:\wamp64\www\apirest\models\delete.model.php on line 31
+[31-Jan-2023 16:52:33 UTC] PHP Stack trace:
+[31-Jan-2023 16:52:33 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 16:52:33 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 16:52:33 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 16:52:33 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:66
+[31-Jan-2023 16:52:33 UTC] PHP   5. DeleteController::deleteData() C:\wamp64\www\apirest\routes\services\delete.php:30
+[31-Jan-2023 16:52:33 UTC] PHP   6. DeleteModel::deleteData() C:\wamp64\www\apirest\controllers\delete.controller.php:13
+[31-Jan-2023 16:52:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\wamp64\www\apirest\models\delete.model.php on line 31
+[31-Jan-2023 16:52:33 UTC] PHP Stack trace:
+[31-Jan-2023 16:52:33 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 16:52:33 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 16:52:33 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 16:52:33 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:66
+[31-Jan-2023 16:52:33 UTC] PHP   5. DeleteController::deleteData() C:\wamp64\www\apirest\routes\services\delete.php:30
+[31-Jan-2023 16:52:33 UTC] PHP   6. DeleteModel::deleteData() C:\wamp64\www\apirest\controllers\delete.controller.php:13
+[31-Jan-2023 17:19:33 UTC] PHP Notice:  Undefined variable: response in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:19:33 UTC] PHP Stack trace:
+[31-Jan-2023 17:19:33 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 17:19:33 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 17:19:33 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 17:19:33 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 17:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postRegister() on null in C:\wamp64\www\apirest\routes\services\post.php:39
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\routes.php(49): include()
+#1 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#3 {main}
+  thrown in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:21:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\wamp64\www\apirest\controllers\post.controller.php on line 34
+[31-Jan-2023 17:21:43 UTC] PHP Notice:  Undefined variable: response in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:21:43 UTC] PHP Stack trace:
+[31-Jan-2023 17:21:43 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 17:21:43 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 17:21:43 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 17:21:43 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 17:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postRegister() on null in C:\wamp64\www\apirest\routes\services\post.php:39
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\routes.php(49): include()
+#1 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#3 {main}
+  thrown in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:22:17 UTC] PHP Notice:  Undefined variable: response in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:22:17 UTC] PHP Stack trace:
+[31-Jan-2023 17:22:17 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 17:22:17 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 17:22:17 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 17:22:17 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 17:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postRegister() on null in C:\wamp64\www\apirest\routes\services\post.php:39
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\routes.php(49): include()
+#1 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#3 {main}
+  thrown in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:26:02 UTC] PHP Notice:  Undefined variable: response in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:26:02 UTC] PHP Stack trace:
+[31-Jan-2023 17:26:02 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 17:26:02 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 17:26:02 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 17:26:02 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 17:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postRegister() on null in C:\wamp64\www\apirest\routes\services\post.php:39
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\routes.php(49): include()
+#1 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#3 {main}
+  thrown in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:29:33 UTC] PHP Notice:  Undefined variable: response in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 17:29:33 UTC] PHP Stack trace:
+[31-Jan-2023 17:29:33 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 17:29:33 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 17:29:33 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 17:29:33 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 17:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function postRegister() on null in C:\wamp64\www\apirest\routes\services\post.php:39
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\routes.php(49): include()
+#1 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#3 {main}
+  thrown in C:\wamp64\www\apirest\routes\services\post.php on line 39
+[31-Jan-2023 18:08:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in C:\wamp64\www\apirest\models\connection.php on line 98
+[31-Jan-2023 18:08:59 UTC] PHP Notice:  Undefined property: stdClass::$idusuario in C:\wamp64\www\apirest\controllers\post.controller.php on line 58
+[31-Jan-2023 18:08:59 UTC] PHP Stack trace:
+[31-Jan-2023 18:08:59 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[31-Jan-2023 18:08:59 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[31-Jan-2023 18:08:59 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[31-Jan-2023 18:08:59 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[31-Jan-2023 18:08:59 UTC] PHP   5. PostController::postLogin() C:\wamp64\www\apirest\routes\services\post.php:50
+[31-Jan-2023 18:11:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in C:\wamp64\www\apirest\models\connection.php on line 106 and at least 3 expected in C:\wamp64\www\apirest\vendor\firebase\php-jwt\src\JWT.php:171
+Stack trace:
+#0 C:\wamp64\www\apirest\models\connection.php(106): Firebase\JWT\JWT::encode(Array, 'as\xC3\xB1kdlja\xC3\xB1lsdf...')
+#1 C:\wamp64\www\apirest\controllers\post.controller.php(58): Connection::jwt('1', '$2a$07$azybxcag...')
+#2 C:\wamp64\www\apirest\routes\services\post.php(50): PostController::postLogin('usuarios', Array, 'usuario')
+#3 C:\wamp64\www\apirest\routes\routes.php(49): include('C:\\wamp64\\www\\a...')
+#4 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#5 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#6 {main}
+  thrown in C:\wamp64\www\apirest\vendor\firebase\php-jwt\src\JWT.php on line 171
+[01-Feb-2023 09:08:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in C:\wamp64\www\apirest\models\connection.php on line 105
+[01-Feb-2023 09:09:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PutModel' not found in C:\wamp64\www\apirest\controllers\post.controller.php:73
+Stack trace:
+#0 C:\wamp64\www\apirest\routes\services\post.php(50): PostController::postLogin('usuarios', Array, 'usuario')
+#1 C:\wamp64\www\apirest\routes\routes.php(49): include('C:\\wamp64\\www\\a...')
+#2 C:\wamp64\www\apirest\controllers\routes.controller.php(6): include('C:\\wamp64\\www\\a...')
+#3 C:\wamp64\www\apirest\index.php(18): RoutesController->index()
+#4 {main}
+  thrown in C:\wamp64\www\apirest\controllers\post.controller.php on line 73
+[01-Feb-2023 09:09:38 UTC] PHP Notice:  Undefined index: comment in C:\wamp64\www\apirest\controllers\post.controller.php on line 76
+[01-Feb-2023 09:09:38 UTC] PHP Stack trace:
+[01-Feb-2023 09:09:38 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[01-Feb-2023 09:09:38 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[01-Feb-2023 09:09:38 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[01-Feb-2023 09:09:38 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[01-Feb-2023 09:09:38 UTC] PHP   5. PostController::postLogin() C:\wamp64\www\apirest\routes\services\post.php:50
+[01-Feb-2023 11:08:18 UTC] PHP Notice:  Undefined index: token in C:\wamp64\www\apirest\routes\services\post.php on line 58
+[01-Feb-2023 11:08:18 UTC] PHP Stack trace:
+[01-Feb-2023 11:08:18 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[01-Feb-2023 11:08:18 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:18
+[01-Feb-2023 11:08:18 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[01-Feb-2023 11:08:18 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:49
+[09-Feb-2023 18:43:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\wamp64\www\apirest\routes\routes.php on line 41
+[09-Feb-2023 18:43:37 UTC] PHP Stack trace:
+[09-Feb-2023 18:43:37 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[09-Feb-2023 18:43:37 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:25
+[09-Feb-2023 18:43:37 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[09-Feb-2023 18:43:37 UTC] PHP   4. in_array() C:\wamp64\www\apirest\routes\routes.php:41
+[10-Feb-2023 13:27:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\wamp64\www\apirest\routes\services\get.php on line 187
+[10-Feb-2023 13:27:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\wamp64\www\apirest\routes\services\get.php on line 187
+[10-Feb-2023 13:27:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\wamp64\www\apirest\routes\services\get.php on line 187
+[10-Feb-2023 13:27:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\wamp64\www\apirest\routes\services\get.php on line 187
+[10-Feb-2023 13:27:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\wamp64\www\apirest\routes\services\get.php on line 187
+[22-Mar-2023 12:00:12 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\apirest\models\post.model.php on line 33
+[22-Mar-2023 12:00:12 UTC] PHP Stack trace:
+[22-Mar-2023 12:00:12 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[22-Mar-2023 12:00:12 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:31
+[22-Mar-2023 12:00:12 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[22-Mar-2023 12:00:12 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:86
+[22-Mar-2023 12:00:12 UTC] PHP   5. PostController::postData() C:\wamp64\www\apirest\routes\services\post.php:96
+[22-Mar-2023 12:00:12 UTC] PHP   6. PostModel::postData() C:\wamp64\www\apirest\controllers\post.controller.php:19
+[22-Mar-2023 12:00:12 UTC] PHP   7. PDOStatement->bindParam() C:\wamp64\www\apirest\models\post.model.php:33
+[22-Mar-2023 12:02:56 UTC] PHP Notice:  Array to string conversion in C:\wamp64\www\apirest\models\post.model.php on line 33
+[22-Mar-2023 12:02:56 UTC] PHP Stack trace:
+[22-Mar-2023 12:02:56 UTC] PHP   1. {main}() C:\wamp64\www\apirest\index.php:0
+[22-Mar-2023 12:02:56 UTC] PHP   2. RoutesController->index() C:\wamp64\www\apirest\index.php:31
+[22-Mar-2023 12:02:56 UTC] PHP   3. include() C:\wamp64\www\apirest\controllers\routes.controller.php:6
+[22-Mar-2023 12:02:56 UTC] PHP   4. include() C:\wamp64\www\apirest\routes\routes.php:86
+[22-Mar-2023 12:02:56 UTC] PHP   5. PostController::postData() C:\wamp64\www\apirest\routes\services\post.php:96
+[22-Mar-2023 12:02:56 UTC] PHP   6. PostModel::postData() C:\wamp64\www\apirest\controllers\post.controller.php:19
+[22-Mar-2023 12:02:56 UTC] PHP   7. PDOStatement->bindParam() C:\wamp64\www\apirest\models\post.model.php:33
